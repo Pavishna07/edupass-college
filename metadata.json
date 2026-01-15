@@ -1,0 +1,7 @@
+{
+  "name": "EduPass Pro - Enterprise Outpass System",
+  "description": "A secure, high-performance outpass management solution featuring role-based hierarchy, gender-aware routing, and real-time gate verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
